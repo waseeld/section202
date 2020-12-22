@@ -1,0 +1,12 @@
+body {
+  background: black;
+  color: white;
+  font-size: 35px;
+  font-family: fantasy;
+}
+
+#coming-soon {
+  text-align: center;
+  padding-top: 20%;
+  direction: rtl;
+}
